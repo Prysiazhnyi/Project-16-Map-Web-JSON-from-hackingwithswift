@@ -1,0 +1,896 @@
+[
+  {
+    "id": 1,
+    "title": "Kabul",
+    "coordinate": {
+      "latitude": 34.5553,
+      "longitude": 69.2075
+    },
+    "info": "Capital of Afghanistan."
+  },
+  {
+    "id": 2,
+    "title": "Tirana",
+    "coordinate": {
+      "latitude": 41.3275,
+      "longitude": 19.8189
+    },
+    "info": "Capital of Albania."
+  },
+  {
+    "id": 3,
+    "title": "Algiers",
+    "coordinate": {
+      "latitude": 36.737232,
+      "longitude": 3.086472
+    },
+    "info": "Capital of Algeria."
+  },
+  {
+    "id": 4,
+    "title": "Andorra la Vella",
+    "coordinate": {
+      "latitude": 42.5078,
+      "longitude": 1.5211
+    },
+    "info": "Capital of Andorra."
+  },
+  {
+    "id": 5,
+    "title": "Luanda",
+    "coordinate": {
+      "latitude": -8.839,
+      "longitude": 13.2894
+    },
+    "info": "Capital of Angola."
+  },
+  {
+    "id": 6,
+    "title": "Buenos Aires",
+    "coordinate": {
+      "latitude": -34.6037,
+      "longitude": -58.3816
+    },
+    "info": "Capital of Argentina."
+  },
+  {
+    "id": 7,
+    "title": "Yerevan",
+    "coordinate": {
+      "latitude": 40.1792,
+      "longitude": 44.4991
+    },
+    "info": "Capital of Armenia."
+  },
+  {
+    "id": 8,
+    "title": "Canberra",
+    "coordinate": {
+      "latitude": -35.2809,
+      "longitude": 149.1300
+    },
+    "info": "Capital of Australia."
+  },
+  {
+    "id": 9,
+    "title": "Vienna",
+    "coordinate": {
+      "latitude": 48.2082,
+      "longitude": 16.3738
+    },
+    "info": "Capital of Austria."
+  },
+  {
+    "id": 10,
+    "title": "Baku",
+    "coordinate": {
+      "latitude": 40.4093,
+      "longitude": 49.8671
+    },
+    "info": "Capital of Azerbaijan."
+  },
+  {
+    "id": 11,
+    "title": "Brussels",
+    "coordinate": {
+      "latitude": 50.8503,
+      "longitude": 4.3517
+    },
+    "info": "Capital of Belgium."
+  },
+  {
+    "id": 12,
+    "title": "Brasília",
+    "coordinate": {
+      "latitude": -15.7801,
+      "longitude": -47.9292
+    },
+    "info": "Capital of Brazil."
+  },
+  {
+    "id": 13,
+    "title": "Sofia",
+    "coordinate": {
+      "latitude": 42.6977,
+      "longitude": 23.3219
+    },
+    "info": "Capital of Bulgaria."
+  },
+  {
+    "id": 14,
+    "title": "Ottawa",
+    "coordinate": {
+      "latitude": 45.4215,
+      "longitude": -75.6972
+    },
+    "info": "Capital of Canada."
+  },
+  {
+    "id": 15,
+    "title": "Santiago",
+    "coordinate": {
+      "latitude": -33.4489,
+      "longitude": -70.6693
+    },
+    "info": "Capital of Chile."
+  },
+  {
+    "id": 16,
+    "title": "Beijing",
+    "coordinate": {
+      "latitude": 39.9042,
+      "longitude": 116.4074
+    },
+    "info": "Capital of China."
+  },
+  {
+    "id": 17,
+    "title": "Bogotá",
+    "coordinate": {
+      "latitude": 4.7110,
+      "longitude": -74.0721
+    },
+    "info": "Capital of Colombia."
+  },
+  {
+    "id": 18,
+    "title": "Copenhagen",
+    "coordinate": {
+      "latitude": 55.6761,
+      "longitude": 12.5683
+    },
+    "info": "Capital of Denmark."
+  },
+  {
+    "id": 19,
+    "title": "Cairo",
+    "coordinate": {
+      "latitude": 30.0444,
+      "longitude": 31.2357
+    },
+    "info": "Capital of Egypt."
+  },
+  {
+    "id": 20,
+    "title": "Helsinki",
+    "coordinate": {
+      "latitude": 60.1699,
+      "longitude": 24.9384
+    },
+    "info": "Capital of Finland."
+  },
+  {
+    "id": 21,
+    "title": "Paris",
+    "coordinate": {
+      "latitude": 48.8566,
+      "longitude": 2.3522
+    },
+    "info": "Capital of France."
+  },
+  {
+    "id": 22,
+    "title": "Tbilisi",
+    "coordinate": {
+      "latitude": 41.7151,
+      "longitude": 44.8271
+    },
+    "info": "Capital of Georgia."
+  },
+  {
+    "id": 23,
+    "title": "Berlin",
+    "coordinate": {
+      "latitude": 52.5200,
+      "longitude": 13.4050
+    },
+    "info": "Capital of Germany."
+  },
+  {
+    "id": 24,
+    "title": "Athens",
+    "coordinate": {
+      "latitude": 37.9838,
+      "longitude": 23.7275
+    },
+    "info": "Capital of Greece."
+  },
+  {
+    "id": 25,
+    "title": "New Delhi",
+    "coordinate": {
+      "latitude": 28.6139,
+      "longitude": 77.2090
+    },
+    "info": "Capital of India."
+  },
+  {
+    "id": 26,
+    "title": "Jakarta",
+    "coordinate": {
+      "latitude": -6.2088,
+      "longitude": 106.8456
+    },
+    "info": "Capital of Indonesia."
+  },
+  {
+    "id": 27,
+    "title": "Tehran",
+    "coordinate": {
+      "latitude": 35.6892,
+      "longitude": 51.3890
+    },
+    "info": "Capital of Iran."
+  },
+  {
+    "id": 28,
+    "title": "Baghdad",
+    "coordinate": {
+      "latitude": 33.3152,
+      "longitude": 44.3661
+    },
+    "info": "Capital of Iraq."
+  },
+  {
+    "id": 29,
+    "title": "Dublin",
+    "coordinate": {
+      "latitude": 53.3498,
+      "longitude": -6.2603
+    },
+    "info": "Capital of Ireland."
+  },
+  {
+    "id": 30,
+    "title": "Rome",
+    "coordinate": {
+      "latitude": 41.9028,
+      "longitude": 12.4964
+    },
+    "info": "Capital of Italy."
+  },
+  {
+    "id": 31,
+    "title": "Tokyo",
+    "coordinate": {
+      "latitude": 35.6762,
+      "longitude": 139.6503
+    },
+    "info": "Capital of Japan."
+  },
+  {
+    "id": 32,
+    "title": "Amman",
+    "coordinate": {
+      "latitude": 31.9634,
+      "longitude": 35.9304
+    },
+    "info": "Capital of Jordan."
+  },
+  {
+    "id": 33,
+    "title": "Astana",
+    "coordinate": {
+      "latitude": 51.1694,
+      "longitude": 71.4491
+    },
+    "info": "Capital of Kazakhstan."
+  },
+  {
+    "id": 34,
+    "title": "Nairobi",
+    "coordinate": {
+      "latitude": -1.2867,
+      "longitude": 36.8219
+    },
+    "info": "Capital of Kenya."
+  },
+  {
+    "id": 35,
+    "title": "Bishkek",
+    "coordinate": {
+      "latitude": 42.8746,
+      "longitude": 74.6120
+    },
+    "info": "Capital of Kyrgyzstan."
+  },
+  {
+    "id": 36,
+    "title": "Vientiane",
+    "coordinate": {
+      "latitude": 17.9757,
+      "longitude": 102.6331
+    },
+    "info": "Capital of Laos."
+  },
+  {
+    "id": 37,
+    "title": "Riga",
+    "coordinate": {
+      "latitude": 56.9460,
+      "longitude": 24.1059
+    },
+    "info": "Capital of Latvia."
+  },
+  {
+    "id": 38,
+    "title": "Beirut",
+    "coordinate": {
+      "latitude": 33.8886,
+      "longitude": 35.4955
+    },
+    "info": "Capital of Lebanon."
+  },
+  {
+    "id": 39,
+    "title": "Kuala Lumpur",
+    "coordinate": {
+      "latitude": 3.1390,
+      "longitude": 101.6869
+    },
+    "info": "Capital of Malaysia."
+  },
+  {
+    "id": 40,
+    "title": "Malé",
+    "coordinate": {
+      "latitude": 4.1755,
+      "longitude": 73.5093
+    },
+    "info": "Capital of Maldives."
+  },
+  {
+    "id": 41,
+    "title": "Ulaanbaatar",
+    "coordinate": {
+      "latitude": 47.8860,
+      "longitude": 106.9057
+    },
+    "info": "Capital of Mongolia."
+  },
+  {
+    "id": 42,
+    "title": "Mexico City",
+    "coordinate": {
+      "latitude": 19.4326,
+      "longitude": -99.1332
+    },
+    "info": "Capital of Mexico."
+  },
+  {
+    "id": 43,
+    "title": "Chisinau",
+    "coordinate": {
+      "latitude": 47.0105,
+      "longitude": 28.8638
+    },
+    "info": "Capital of Moldova."
+  },
+  {
+    "id": 44,
+    "title": "Monaco",
+    "coordinate": {
+      "latitude": 43.7333,
+      "longitude": 7.4167
+    },
+    "info": "Capital of Monaco."
+  },
+  {
+    "id": 45,
+    "title": "Podgorica",
+    "coordinate": {
+      "latitude": 42.4411,
+      "longitude": 19.2636
+    },
+    "info": "Capital of Montenegro."
+  },
+  {
+    "id": 46,
+    "title": "Moroni",
+    "coordinate": {
+      "latitude": -11.7023,
+      "longitude": 43.2473
+    },
+    "info": "Capital of Comoros."
+  },
+  {
+    "id": 47,
+    "title": "Maputo",
+    "coordinate": {
+      "latitude": -25.9655,
+      "longitude": 32.5892
+    },
+    "info": "Capital of Mozambique."
+  },
+  {
+    "id": 48,
+    "title": "Windhoek",
+    "coordinate": {
+      "latitude": -22.5597,
+      "longitude": 17.0832
+    },
+    "info": "Capital of Namibia."
+  },
+  {
+    "id": 49,
+    "title": "Kathmandu",
+    "coordinate": {
+      "latitude": 27.7172,
+      "longitude": 85.3240
+    },
+    "info": "Capital of Nepal."
+  },
+  {
+    "id": 50,
+    "title": "The Hague",
+    "coordinate": {
+      "latitude": 52.0705,
+      "longitude": 4.3007
+    },
+    "info": "Capital of Netherlands."
+  },
+  {
+    "id": 51,
+    "title": "Abuja",
+    "coordinate": {
+      "latitude": 9.0575,
+      "longitude": 7.4951
+    },
+    "info": "Capital of Nigeria."
+  },
+  {
+    "id": 52,
+    "title": "Oslo",
+    "coordinate": {
+      "latitude": 59.9139,
+      "longitude": 10.7522
+    },
+    "info": "Capital of Norway."
+  },
+  {
+    "id": 53,
+    "title": "Islamabad",
+    "coordinate": {
+      "latitude": 33.6844,
+      "longitude": 73.0479
+    },
+    "info": "Capital of Pakistan."
+  },
+  {
+    "id": 54,
+    "title": "Warsaw",
+    "coordinate": {
+      "latitude": 52.2298,
+      "longitude": 21.0118
+    },
+    "info": "Capital of Poland."
+  },
+  {
+    "id": 55,
+    "title": "Lisbon",
+    "coordinate": {
+      "latitude": 38.7169,
+      "longitude": -9.1395
+    },
+    "info": "Capital of Portugal."
+  },
+  {
+    "id": 56,
+    "title": "Bucharest",
+    "coordinate": {
+      "latitude": 44.4268,
+      "longitude": 26.1025
+    },
+    "info": "Capital of Romania."
+  },
+  {
+    "id": 57,
+    "title": "Moscow",
+    "coordinate": {
+      "latitude": 55.7558,
+      "longitude": 37.6173
+    },
+    "info": "Capital of Russia."
+  },
+  {
+    "id": 58,
+    "title": "Kigali",
+    "coordinate": {
+      "latitude": -1.9462,
+      "longitude": 30.0619
+    },
+    "info": "Capital of Rwanda."
+  },
+  {
+    "id": 59,
+    "title": "São Tomé",
+    "coordinate": {
+      "latitude": 0.3365,
+      "longitude": 6.7273
+    },
+    "info": "Capital of São Tomé and Príncipe."
+  },
+  {
+    "id": 60,
+    "title": "Belgrade",
+    "coordinate": {
+      "latitude": 44.8176,
+      "longitude": 20.4633
+    },
+    "info": "Capital of Serbia."
+  },
+  {
+    "id": 61,
+    "title": "Singapore",
+    "coordinate": {
+      "latitude": 1.3521,
+      "longitude": 103.8198
+    },
+    "info": "Capital of Singapore."
+  },
+  {
+    "id": 62,
+    "title": "Bratislava",
+    "coordinate": {
+      "latitude": 48.1482,
+      "longitude": 17.1067
+    },
+    "info": "Capital of Slovakia."
+  },
+  {
+    "id": 63,
+    "title": "Ljubljana",
+    "coordinate": {
+      "latitude": 46.0511,
+      "longitude": 14.5051
+    },
+    "info": "Capital of Slovenia."
+  },
+  {
+    "id": 64,
+    "title": "Helsinki",
+    "coordinate": {
+      "latitude": 60.1695,
+      "longitude": 24.9354
+    },
+    "info": "Capital of Finland."
+  },
+  {
+    "id": 65,
+    "title": "Djibouti",
+    "coordinate": {
+      "latitude": 11.8251,
+      "longitude": 42.5903
+    },
+    "info": "Capital of Djibouti."
+  },
+  {
+    "id": 66,
+    "title": "Yamoussoukro",
+    "coordinate": {
+      "latitude": 6.8197,
+      "longitude": -5.2761
+    },
+    "info": "Capital of Ivory Coast."
+  },
+  {
+    "id": 67,
+    "title": "Asunción",
+    "coordinate": {
+      "latitude": -25.2637,
+      "longitude": -57.5759
+    },
+    "info": "Capital of Paraguay."
+  },
+  {
+    "id": 68,
+    "title": "Lima",
+    "coordinate": {
+      "latitude": -12.0464,
+      "longitude": -77.0428
+    },
+    "info": "Capital of Peru."
+  },
+  {
+    "id": 69,
+    "title": "Manila",
+    "coordinate": {
+      "latitude": 14.5995,
+      "longitude": 120.9842
+    },
+    "info": "Capital of Philippines."
+  },
+  {
+    "id": 70,
+    "title": "Warsaw",
+    "coordinate": {
+      "latitude": 52.2298,
+      "longitude": 21.0118
+    },
+    "info": "Capital of Poland."
+  },
+  {
+    "id": 71,
+    "title": "Port Moresby",
+    "coordinate": {
+      "latitude": -9.4438,
+      "longitude": 147.1803
+    },
+    "info": "Capital of Papua New Guinea."
+  },
+  {
+    "id": 72,
+    "title": "Pretoria",
+    "coordinate": {
+      "latitude": -25.7460,
+      "longitude": 28.1881
+    },
+    "info": "Capital of South Africa."
+  },
+  {
+    "id": 73,
+    "title": "Stockholm",
+    "coordinate": {
+      "latitude": 59.3293,
+      "longitude": 18.0686
+    },
+    "info": "Capital of Sweden."
+  },
+  {
+    "id": 74,
+    "title": "Bern",
+    "coordinate": {
+      "latitude": 46.9481,
+      "longitude": 7.4474
+    },
+    "info": "Capital of Switzerland."
+  },
+  {
+    "id": 75,
+    "title": "Damascus",
+    "coordinate": {
+      "latitude": 33.5138,
+      "longitude": 36.2765
+    },
+    "info": "Capital of Syria."
+  },
+  {
+    "id": 76,
+    "title": "Taipei",
+    "coordinate": {
+      "latitude": 25.0330,
+      "longitude": 121.5654
+    },
+    "info": "Capital of Taiwan."
+  },
+  {
+    "id": 77,
+    "title": "Dushanbe",
+    "coordinate": {
+      "latitude": 38.5598,
+      "longitude": 68.7870
+    },
+    "info": "Capital of Tajikistan."
+  },
+  {
+    "id": 78,
+    "title": "Dodoma",
+    "coordinate": {
+      "latitude": -6.1639,
+      "longitude": 39.2026
+    },
+    "info": "Capital of Tanzania."
+  },
+  {
+    "id": 79,
+    "title": "Bangkok",
+    "coordinate": {
+      "latitude": 13.7563,
+      "longitude": 100.5018
+    },
+    "info": "Capital of Thailand."
+  },
+  {
+    "id": 80,
+    "title": "Lomé",
+    "coordinate": {
+      "latitude": 6.1375,
+      "longitude": 1.2123
+    },
+    "info": "Capital of Togo."
+  },
+  {
+    "id": 81,
+    "title": "Nairobi",
+    "coordinate": {
+      "latitude": -1.2867,
+      "longitude": 36.8219
+    },
+    "info": "Capital of Kenya."
+  },
+  {
+    "id": 82,
+    "title": "Ashgabat",
+    "coordinate": {
+      "latitude": 37.9601,
+      "longitude": 58.3793
+    },
+    "info": "Capital of Turkmenistan."
+  },
+  {
+    "id": 83,
+    "title": "Vienna",
+    "coordinate": {
+      "latitude": 48.2082,
+      "longitude": 16.3738
+    },
+    "info": "Capital of Austria."
+  },
+  {
+    "id": 84,
+    "title": "Kigali",
+    "coordinate": {
+      "latitude": -1.9462,
+      "longitude": 30.0619
+    },
+    "info": "Capital of Rwanda."
+  },
+  {
+    "id": 85,
+    "title": "Tashkent",
+    "coordinate": {
+      "latitude": 41.2995,
+      "longitude": 69.2401
+    },
+    "info": "Capital of Uzbekistan."
+  },
+  {
+    "id": 86,
+    "title": "Vientiane",
+    "coordinate": {
+      "latitude": 17.9757,
+      "longitude": 102.6331
+    },
+    "info": "Capital of Laos."
+  },
+  {
+    "id": 87,
+    "title": "Warsaw",
+    "coordinate": {
+      "latitude": 52.2298,
+      "longitude": 21.0118
+    },
+    "info": "Capital of Poland."
+  },
+  {
+    "id": 88,
+    "title": "Caracas",
+    "coordinate": {
+      "latitude": 10.4806,
+      "longitude": -66.8792
+    },
+    "info": "Capital of Venezuela."
+  },
+  {
+    "id": 89,
+    "title": "Hanoi",
+    "coordinate": {
+      "latitude": 21.0285,
+      "longitude": 105.8542
+    },
+    "info": "Capital of Vietnam."
+  },
+  {
+    "id": 90,
+    "title": "Sana'a",
+    "coordinate": {
+      "latitude": 15.3694,
+      "longitude": 44.1910
+    },
+    "info": "Capital of Yemen."
+  },
+  {
+    "id": 91,
+    "title": "Zagreb",
+    "coordinate": {
+      "latitude": 45.8131,
+      "longitude": 15.978
+    },
+    "info": "Capital of Croatia."
+  },
+  {
+    "id": 92,
+    "title": "Lima",
+    "coordinate": {
+      "latitude": -12.0464,
+      "longitude": -77.0428
+    },
+    "info": "Capital of Peru."
+  },
+  {
+    "id": 93,
+    "title": "Seoul",
+    "coordinate": {
+      "latitude": 37.5665,
+      "longitude": 126.978
+    },
+    "info": "Capital of South Korea."
+  },
+  {
+    "id": 94,
+    "title": "Baghdad",
+    "coordinate": {
+      "latitude": 33.3152,
+      "longitude": 44.3661
+    },
+    "info": "Capital of Iraq."
+  },
+  {
+    "id": 95,
+    "title": "Chisinau",
+    "coordinate": {
+      "latitude": 47.0105,
+      "longitude": 28.8638
+    },
+    "info": "Capital of Moldova."
+  },
+  {
+    "id": 96,
+    "title": "Montevideo",
+    "coordinate": {
+      "latitude": -34.9011,
+      "longitude": -56.1645
+    },
+    "info": "Capital of Uruguay."
+  },
+  {
+          "id": 97,
+          "title": "Киев",
+          "info": "Столица Украины.",
+          "coordinate": {
+              "latitude": 50.4501,
+              "longitude": 30.5234
+          }
+      },
+      {
+          "id": 98,
+          "title": "Херсон",
+          "info": "Город в южной части Украины.",
+          "coordinate": {
+              "latitude": 46.6354,
+              "longitude": 32.6169
+          }
+      },
+      {
+          "id": 99,
+          "title": "Николаев",
+          "info": "Крупный портовый город на юге Украины.",
+          "coordinate": {
+              "latitude": 46.975,
+              "longitude": 31.9946
+          }
+      }
+]
+
+
+
