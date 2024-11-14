@@ -39,21 +39,25 @@ class ViewController: UIViewController, MKMapViewDelegate {
     }
     
     func mapView(_ mapView: MKMapView, viewFor annotation: MKAnnotation) -> MKAnnotationView? {
-        // 1
+        
         guard annotation is Capital else { return nil }
         
-        // 2
         let identifier = "Capital"
         
-        // 3
         var annotationView = mapView.dequeueReusableAnnotationView(withIdentifier: identifier)
         
         if annotationView == nil {
-            //4
+            
             annotationView = MKMarkerAnnotationView(annotation: annotation, reuseIdentifier: identifier)
             annotationView?.canShowCallout = true
             
-            // 5
+            // Создаём UILabel и добавляем нужный текст
+            let infoLabel = UILabel()
+            infoLabel.text = (annotation as? Capital)?.info
+            infoLabel.font = UIFont.systemFont(ofSize: 12) // Дополнительно можно задать шрифт
+            
+            annotationView?.detailCalloutAccessoryView = infoLabel // Устанавливаем кастомный
+            
             let btn = UIButton(type: .detailDisclosure)
             annotationView?.rightCalloutAccessoryView = btn
             
@@ -62,7 +66,6 @@ class ViewController: UIViewController, MKMapViewDelegate {
                 markerAnnotationView.markerTintColor = .yellow
             }
         } else {
-            // 6
             annotationView?.annotation = annotation
         }
         
@@ -71,8 +74,8 @@ class ViewController: UIViewController, MKMapViewDelegate {
     
     func mapView(_ mapView: MKMapView, annotationView view: MKAnnotationView, calloutAccessoryControlTapped control: UIControl) {
         guard let capital = view.annotation as? Capital else { return }
-        let placeName = capital.title
-        let placeInfo = capital.info
+        //        let placeName = capital.title
+        //        let placeInfo = capital.info
         
         let vc = DetailWebViewController()
         vc.infoCountry = capital.title
@@ -120,8 +123,8 @@ class ViewController: UIViewController, MKMapViewDelegate {
                     let decoder = JSONDecoder()
                     let cities = try decoder.decode([Capital].self, from: data)
                     
-                  // Печатаем загруженные данные в консоль для проверки
-//                    print("Loaded items: \(cities[0].title)") // Выводим первый объект как пример
+                    // Печатаем загруженные данные в консоль для проверки
+                    //                    print("Loaded items: \(cities[0].title)") // Выводим первый объект как пример
                     
                     // Переходим на главный поток для обновления UI
                     DispatchQueue.main.async { [weak self] in
@@ -136,6 +139,5 @@ class ViewController: UIViewController, MKMapViewDelegate {
             }
         }
     }
-    
 }
 
