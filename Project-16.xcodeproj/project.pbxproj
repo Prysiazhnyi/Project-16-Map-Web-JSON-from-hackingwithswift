@@ -11,7 +11,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		E04680162CE5F74F00284FEE /* Exceptions for "Project-16" folder in "Project-16" target */ = {
+		E04680162CE5F74F00284FEE /* Exceptions for "Project-16+Map+Web+JSON" folder in "Project-16" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -21,12 +21,12 @@
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		E04680062CE5F74E00284FEE /* Project-16 */ = {
+		E04680062CE5F74E00284FEE /* Project-16+Map+Web+JSON */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				E04680162CE5F74F00284FEE /* Exceptions for "Project-16" folder in "Project-16" target */,
+				E04680162CE5F74F00284FEE /* Exceptions for "Project-16+Map+Web+JSON" folder in "Project-16" target */,
 			);
-			path = "Project-16";
+			path = "Project-16+Map+Web+JSON";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -45,7 +45,7 @@
 		E0467FFB2CE5F74E00284FEE = {
 			isa = PBXGroup;
 			children = (
-				E04680062CE5F74E00284FEE /* Project-16 */,
+				E04680062CE5F74E00284FEE /* Project-16+Map+Web+JSON */,
 				E04680052CE5F74E00284FEE /* Products */,
 			);
 			sourceTree = "<group>";
@@ -74,7 +74,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				E04680062CE5F74E00284FEE /* Project-16 */,
+				E04680062CE5F74E00284FEE /* Project-16+Map+Web+JSON */,
 			);
 			name = "Project-16";
 			packageProductDependencies = (
@@ -147,7 +147,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = S9UP438A73;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Project-16/Info.plist";
+				INFOPLIST_FILE = "Project-16+Map+Web+JSON/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "My map";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
@@ -177,7 +177,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = S9UP438A73;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Project-16/Info.plist";
+				INFOPLIST_FILE = "Project-16+Map+Web+JSON/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "My map";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
